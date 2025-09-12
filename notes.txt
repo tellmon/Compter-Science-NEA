@@ -1,0 +1,13 @@
+Use objects for the grids so i can store stuff like peices and have posisions
+
+
+
+todo for project:
+
+set postision in pieces in files
+have diffrent build states
+switch colours
+numbers and letter grid reffrences
+arrows for pieces
+highleted for potential moves.
+reset button
