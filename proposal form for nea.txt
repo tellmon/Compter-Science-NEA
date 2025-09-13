@@ -1,7 +1,3 @@
-    An annotated sketch of how it will look
-    The basic ideas of how it will work
-
-
 
 What the program is:
 
