@@ -17,6 +17,6 @@ When the switch button is clicked the board would be fliped so the only diffrent
 
 the reset button would work by re reading the file and reding the loading process agan so we would need a whole function or class just for that which is fine as that makes it abstract.
 
-the arrow button would work by when you click the first square it would remember and then when you click the second square a arrow will be draw useing the corwardents durring this the arrow button will turn red and after the arrow is drawn the red will go away and the arrow button will be deselcted. the one fing i cant figer out is how i can select a square with the mouse with out it being a button.
+the arrow button would work by when you click the first square it would remember and then when you click the second square a arrow will be draw useing the corwardents durring this the arrow button will turn red and after the arrow is drawn the red will go away and the arrow button will be deselcted. i Think i will do it as 64 button to make it easier then traking the mouse position and doing maths. this would also be easier as i could store the piece and data for the button in it which makes storeing that info easier.
 
-to choies the diffrent board stats there will be a drop down menu you can select the diffrent maps from that are origly loaded from being in the same area as the code. the only thing i not figuerd out with this yet is how i can read the files and put it there without all ready knowing the files.
+to choies the diffrent board stats there will be a feild to type in the file name and it will add the .txt and get it that way from a text box else it will have a pop up.

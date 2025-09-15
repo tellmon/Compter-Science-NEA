@@ -11,3 +11,11 @@ numbers and letter grid reffrences
 arrows for pieces
 highleted for potential moves.
 reset button
+
+
+
+you could do the grid as 64 buttons or track mouse and use maths to find the postision.
+
+i think buttons are easier but could be more anoying to deal with.
+
+for files i think you should just type in the file name and it will add the .txt and get it that way from a text box else it will have a pop up.
